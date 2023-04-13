@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MidmrngSimplelist</string>
+    <string-array name="contacts">
+        <item>Sarah</item>
+        <item>Daniel</item>
+        <item>Yvonne</item>
+        <item>Faith</item>
+        <item>Dennis</item>
+        <item>Senji</item>
+        <item>Mulumba</item>
+        <item>Shem</item>
+        <item>Sylvia</item>
+        <item>Fidel</item>
+        <item>Tito</item>
+        <item>Levis</item>
+        <item>Victor</item>
+        <item>James</item>
+        <item>Hans</item>
+        <item>Lee</item>
+        <item>Thelma</item>
+        <item>Reinhard</item>
+        <item>Lee</item>
+        <item>Lish</item>
+    </string-array>
+</resources>
